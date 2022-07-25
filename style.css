@@ -1,0 +1,25 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.car{
+    margin-top: 80px;
+}
+.panda-btn{
+    width: 168px;
+height: 42px;
+color: white;
+
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+border-radius: 6px;
+
+}
+.panda-btn-two {
+    margin-top: auto;
+    width: 59spx;
+    height: 40px;
+    color: white;
+    border: none;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+   
+    
+}
